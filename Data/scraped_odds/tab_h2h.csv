@@ -1,0 +1,9 @@
+match,start_time,market_name,home_team,home_win,away_team,away_win,margin,agency
+Canberra Raiders v New Zealand Warriors,2025-03-02T00:00:00.000Z,Head To Head,Canberra Raiders,2.25,New Zealand Warriors,1.65,1.051,TAB
+Penrith Panthers v Cronulla Sharks,2025-03-02T04:30:00.000Z,Head To Head,Penrith Panthers,1.67,Cronulla Sharks,2.2,1.053,TAB
+Sydney Roosters v Brisbane Broncos,2025-03-06T09:00:00.000Z,Head To Head,Sydney Roosters,2.9,Brisbane Broncos,1.42,1.049,TAB
+Wests Tigers v Newcastle Knights,2025-03-07T07:00:00.000Z,Head To Head,Wests Tigers,1.95,Newcastle Knights,1.85,1.053,TAB
+Dolphins v Souths,2025-03-07T09:05:00.000Z,Head To Head,Dolphins,1.53,Souths,2.5,1.054,TAB
+St George Ill v Canterbury-Bankstown Bulldogs,2025-03-08T06:30:00.000Z,Head To Head,St George Ill,2.55,Canterbury-Bankstown Bulldogs,1.52,1.05,TAB
+Manly Warringah Sea Eagles v Nth Qld,2025-03-08T08:35:00.000Z,Head To Head,Manly Warringah Sea Eagles,1.52,Nth Qld,2.55,1.05,TAB
+Melbourne Storm v Parramatta Eels,2025-03-09T05:05:00.000Z,Head To Head,Melbourne Storm,1.28,Parramatta Eels,3.7,1.052,TAB
