@@ -6,7 +6,7 @@ library(httr)
 library(jsonlite)
 
 # Function to fix team names
-source("Scripts/fix_team_names.R")
+source("Functions/fix_team_names.R")
 
 main_tab <- function() {
 
